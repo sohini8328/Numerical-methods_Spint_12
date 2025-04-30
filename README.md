@@ -10,10 +10,13 @@ Features
 - Evaluation metrics including AUC-ROC, RMSE, and accuracy scores
 
 
-BLANK_README.md to get started Build With: This is the list of the libraries used by me to run this project were pandas,numpy, matplotlib.pyplot, plotly.express and stats.
+BLANK_README.md to get started Build With: This is the list of the libraries used by me to run this project were pandas,numpy, matplotlib.pyplot, stats, seaborn, StandardScaler, OneHotEncoder, ColumnTransformer, LinearRegression
+RandomForestRegressor, DecisionTreeRegressor, GridSearchCV, LGBMRegressor, XGBRegressor, CatBoostRegressor, roc_auc_score, mean_squared_error
 
-Getting Started: This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple steps. Prequisites: This is an example of software and how to install them. VS Code
+Getting Started: This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple steps. 
 
+Prequisites: 
+This is an example of software and how to install them. VS Code
 Clone the repo:https://github.com/sohini8328/Numerical-methods_Spint_12.git
 
 Data Preprocessing
@@ -34,7 +37,7 @@ Model effectiveness is assessed using:
 - AUC-ROC for classification performance
 - Confusion Matrix & Precision-Recall curves
 
-Contributors- Sohini Tomar
+Contributor- Sohini Tomar
 
 
 
